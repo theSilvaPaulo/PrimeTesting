@@ -1,0 +1,10 @@
+4 passou no teste, pois está de acordo com o esperado: 0
+1259 passou no teste, pois está de acordo com o esperado: 1
+2069 passou no teste, pois está de acordo com o esperado: 1
+2543 passou no teste, pois está de acordo com o esperado: 1
+1429 passou no teste, pois está de acordo com o esperado: 1
+2657 passou no teste, pois está de acordo com o esperado: 1
+5 passou no teste, pois está de acordo com o esperado: 1
+211 passou no teste, pois está de acordo com o esperado: 1
+463 passou no teste, pois está de acordo com o esperado: 1
+9 passou no teste, pois está de acordo com o esperado: 0
